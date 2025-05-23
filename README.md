@@ -35,6 +35,3 @@ An Android application built with Kotlin and Jetpack Compose that shows delays o
 ---
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
-```
-
-Feel free to check out my repositories below!

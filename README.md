@@ -1,37 +1,39 @@
-# 👋 Hello, I'm Benjamin Edlinger
+# Hi, I am Benjamin 👋
 
-Final year student at TGM Vienna and Software Engineer with a passion for building great user experiences and robust applications.
+A full-stack and mobile software engineer from Austria, passionate about building clean, high-performance applications.
 
-## 💻 Tech Stack
-
-```
-Frontend: JavaScript | TypeScript | CSS | Tailwind | Vue
-Backend: C# | Python | Java | Go
-Mobile: Android Development with Kotlin & Jetpack Compose
-```
-
-## 🔭 Current Focus
-
-- Wrapping up my studies at TGM Vienna
-- Building web and mobile applications
-- Expanding my knowledge in other areas of software development
-
-## 🚀 Featured Projects
-
-### Characreate
-A persona generator that leverages modern web technologies and ai to generate personas for you.
-
-### sustAInableEducation
-My diploma project focused on incorporating AI tools into educational settings to promote sustainable learning approaches.
-
-### WLS-Android
-An Android application built with Kotlin and Jetpack Compose that shows delays of the Wiener Linien and sends notifications.
-
-## 📫 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/bedlinger)
-- [Personal Website](https://bedlinger.at/)
+[<img src="https://img.shields.io/badge/Website-d65d0e" alt="Website"/>](https://bedlinger.at)
+[<img src="https://img.shields.io/badge/LinkedIn-d65d0e" alt="LinkedIn"/>](https://www.linkedin.com/in/bedlinger)
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+### ⚙️ My Toolkit
+
+-   **Frontend:** HTML, JS/TS, CSS, Tailwind, Vue/Nuxt, Astro
+-   **Backend:** C#/.NET, Java, Python
+-   **Mobile:** Android, Kotlin, Jetpack Compose
+-   **DevOps:** Docker, GitHub Actions
+
+### 📊 My GitHub Stats
+
+![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bedlinger&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github)
+
+---
+
+### 🚀 Featured Projects
+
+> **[Characreate](https://github.com/bedlinger/characreate)**
+> <br> A persona generator that leverages modern web technologies and AI.
+> <br> *`Tech:` Vue, Typescript, Tailwind, DeepInfra*
+
+> **[sustAInableEducation](https://github.com/bedlinger/sustAInableEducation)**
+> <br> My diploma project focused on incorporating AI tools into educational settings.
+> <br> *`Tech:` Vue, Typescript, Tailwind, C#/.NET, DeepInfra*
+
+> **[WLS-Android](https://github.com/leanderlist/wls-android)**
+> <br> An Android app that shows public transport delays and sends notifications for the Wiener Linien.
+> <br> *`Tech:` Kotlin, Jetpack Compose, Ktor*
+
+---
+
+> "Code is like humor. When you have to explain it, it's bad." – Cory House

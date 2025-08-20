@@ -24,11 +24,11 @@ A full-stack and mobile software engineer from Austria, passionate about buildin
 
 > **[Characreate](https://github.com/bedlinger/characreate)**
 > <br> A persona generator that leverages modern web technologies and AI.
-> <br> *`Tech:` Vue, Typescript, Tailwind, DeepInfra*
+> <br> *`Tech:` Nuxt, Typescript, Tailwind, Qwen 2.5*
 
 > **[sustAInableEducation](https://github.com/bedlinger/sustAInableEducation)**
 > <br> My diploma project focused on incorporating AI tools into educational settings.
-> <br> *`Tech:` Vue, Typescript, Tailwind, C#/.NET, DeepInfra*
+> <br> *`Tech:` Nuxt, Typescript, Tailwind, C#/.NET, Llama 4*
 
 > **[WLS-Android](https://github.com/leanderlist/wls-android)**
 > <br> An Android app that shows public transport delays and sends notifications for the Wiener Linien.

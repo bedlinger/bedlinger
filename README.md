@@ -31,7 +31,7 @@ A full-stack and mobile software engineer from Austria, passionate about buildin
 > <br> *`Tech:` Nuxt, Typescript, Tailwind, C#/.NET, Llama 4*
 
 > **[WLS-Android](https://github.com/leanderlist/wls-android)**
-> <br> An Android app that shows public transport delays and sends notifications for the Wiener Linien.
+> <br> An Android application for viewing current and historical service disruptions for the Wiener Linien, which also sends notifications for desired lines.
 > <br> *`Tech:` Kotlin, Jetpack Compose, Ktor*
 
 ---

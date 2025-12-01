@@ -14,10 +14,6 @@ A full-stack and mobile software engineer from Austria, passionate about buildin
 -   **Mobile:** Android, Kotlin, Jetpack Compose
 -   **DevOps:** Docker, GitHub Actions
 
-### 📊 My GitHub Stats
-
-![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bedlinger&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github)
-
 ---
 
 ### 🚀 Featured Projects
